@@ -1,10 +1,20 @@
 **Melenoma Classification**
+
+
 **1. Problem Statment**
+
+
 Classfying Melenoma skin lesion images into 9 classes of diagnostics using deep learning models.
 
+
+
 **2. Methods**
+
+
 2.1. Dataset
 The dataset used is the Skin Lesion Images for Melanoma Classification on Kaggle. This dataset contains the training data for the ISIC 2019 challenge, note that it already includes data from previous years (2018 and 2017). The dataset for ISIC 2019 contains 25,331 images available for the classification of dermoscopic images among nine different diagnostic categories:
+
+
 
 **Melanoma**
 Melanocytic nevus
@@ -21,6 +31,8 @@ Screenshot 2023-03-30 183038
 2.3. Feature Engineering
 2.4. Models
 Finetuned pretrained CNN based models. The models used are:
+
+
 
 *VGG-16
 *VGG-19
